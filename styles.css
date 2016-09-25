@@ -1,0 +1,19 @@
+body {
+	margin: 0px;
+	background-color: #0F1870;
+}
+
+.content {
+	background-color: #F4E67E;
+}
+
+#logo {
+	width: 250px;
+	margin: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+		padding: 3px;
+}
